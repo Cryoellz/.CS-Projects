@@ -1,0 +1,31 @@
+# Visual Studio cache/options directory
+.vs/
+
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build directories
+Debug/
+Release/
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Local user-specific settings
+launchSettings.json
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
